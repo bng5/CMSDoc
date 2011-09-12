@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns="http://docbook.org/ns/docbook"
+	  xmlns:xlink="http://www.w3.org/1999/xlink"
+	  xmlns:xi="http://www.w3.org/2001/XInclude"
+	  version="5.0" xml:id="index" xml:lang="es">
+  <title>CMS</title>
+  <xi:include href="prologo.xml"/>
+  <xi:include href="./install/intro.xml"/>
+  <xi:include href="chapters/installation.xml"/>
+  <xi:include href="./appendices/multisite.install.xml"/>
+</book>
